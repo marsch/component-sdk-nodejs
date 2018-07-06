@@ -1,7 +1,7 @@
 {
-  "name": "elasticio-sailor-nodejs",
+  "name": "@openintegrationhub/component-sdk-nodejs",
   "description": "The official elastic.io library for bootstrapping and executing for Node.js connectors",
-  "version": "2.2.1",
+  "version": "0.0.1",
   "main": "run.js",
   "scripts": {
     "check_style": "eslint lib spec mocha_spec lib run.js runService.js",
@@ -42,6 +42,6 @@
     "nsp": "^2.8.1",
     "sinon": "^2.1.0"
   },
-  "repository": "elasticio/sailor-nodejs",
+  "repository": "openintegrationhub/component-sdk-nodejs",
   "license": "Apache-2.0"
 }
